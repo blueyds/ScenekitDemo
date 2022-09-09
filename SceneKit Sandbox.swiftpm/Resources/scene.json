@@ -1,0 +1,33 @@
+{
+    "name": "MyScene",
+    "geometries": {
+        {
+            "name": "sphere01",
+            "type": "sphere",
+            "radius": "5.0
+        },
+        {
+            "name": "SquareFlatBox01",
+            "type": "box",
+            "width": "4.0",
+            "height": "1.0",
+            "length": "4.0",
+            "radius": "0.0"
+        }
+    },
+    "colors": {
+        {
+            "name": "Red01",
+            "r": "1.0",
+            "g": "0.0",
+            "b": "0.0",
+            "a": "1.0"
+        }
+    }
+    "materials": {
+        {
+            "name": "Red01",
+            "diffuseColor": "Red01"
+        }
+    }
+}
